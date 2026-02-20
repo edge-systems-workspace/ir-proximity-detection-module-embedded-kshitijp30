@@ -10,7 +10,7 @@
  * and detects obstacle presence.
  */
 
-IR_PIN 5
+IR_PIN 5;
 
 void setup() {
     pinMode(IR_PIN, INPUT);
